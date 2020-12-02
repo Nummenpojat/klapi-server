@@ -1,0 +1,15 @@
+{
+  "name": "klapi-server",
+  "version": "0.0.1",
+  "description": "Backend for Klapi",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "node src/index.js"
+  },
+  "author": "Nummenpojat",
+  "license": "GPL3",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.6"
+  }
+}
