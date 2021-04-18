@@ -1,5 +1,8 @@
 # Klapi-server
-## NodeJS-powered backend for Klapi
+NodeJS-powered backend for Klapi
+
+## Running the server
+Run `npm run start` or `node src/index.js`
 
 ## Contribution guide
 1. For repository on your account
