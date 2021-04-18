@@ -1,9 +1,6 @@
 # Klapi-server
 NodeJS-powered backend for Klapi
 
-## Running the server
-Run `npm run start` or `node src/index.js`
-
 ## Editing repo
 ### 1. For repository on your account
 ### 2. Clone forked repo on your machine
